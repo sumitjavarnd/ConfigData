@@ -53,4 +53,4 @@ words: boat,book,vote,seat,backpack,partition,groundhog
 ---
 spring:
   profiles: cold-noun
-  words: icicle,refrigerator,blizzard,snowball
+words: icicle,refrigerator,blizzard,snowball
