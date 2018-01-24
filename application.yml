@@ -23,7 +23,7 @@ server:
 spring:
   profiles: sentence
 server:
-  port: 9029  
+  port: 9039  
 words: NotApplicable
     
 ---
