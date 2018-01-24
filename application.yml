@@ -11,8 +11,6 @@
 ---
 # Items that apply to ALL profiles:
 eureka:
-  server:
-    enable-self-preservation: false
   client:
     serviceUrl:
       defaultZone: http://localhost:8019/eureka/
